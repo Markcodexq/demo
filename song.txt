@@ -9,10 +9,8 @@ I was lightning before the thunder
 
 Thunder, thunder
 Thunder, thun-, thunder
-<<<<<<< HEAD
 Thunder, th-th-thunder, thunder
 Thunder, thunder, thun-
 Thunder, th-th-thunder, thunder
+
 ------------------------------------------
-=======
->>>>>>> c53ecd4e7a3771d890d3bc3c32719ad48028f329
